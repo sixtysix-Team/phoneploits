@@ -110,7 +110,7 @@ mulai(){
             echo $g"Ingin Install Metasploit ?"
             read -p "y/n :" pill;
             if [ $pill = "y" ]; then
-                    bash install
+                    bash exploit
                     clear
                     banner
                     start1
