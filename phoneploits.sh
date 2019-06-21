@@ -65,7 +65,9 @@ start1(){
                    sleep 5
                    echo $g"Backdor telah tersimpan di sdcard"
                    sleep 3
+                   clear
                    echo $g"Memulai penyadapan"
+                   sleep 2
                    clear
                    echo $g"Loading.."
                    sleep 3
