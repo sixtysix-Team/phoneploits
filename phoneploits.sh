@@ -108,7 +108,7 @@ start1(){
                     load
                     sleep 2
                     clear
-                    cd camp
+                    cd camera
                     bash camp
             elif [ $nomor = "5" ]; then
                     echo $c"terimakasih telah menggunakan tools ini"
