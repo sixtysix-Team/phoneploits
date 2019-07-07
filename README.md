@@ -1,5 +1,9 @@
 # phoneploits
 
+Update :
+
+Penambahan fungsi lacak ip, dan sadap kamera
+
 tools sadap handphone v.1.2
 
 penginstalan
